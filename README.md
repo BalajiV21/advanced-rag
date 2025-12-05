@@ -1,4 +1,4 @@
-# Mastering Large Language Models (LLM) with Retrieval Augmented Generation (RAG)
+# Mastering Large Language Models (LLM) with Retrieval Augmented Generation (RAG) 
 
 This repository includes a set of assets that are used in the above course, which dives
 deeper into the various problems and solutions when building a RAG system in enterprise environments.
